@@ -24,3 +24,4 @@ RUN yum update -y && yum install -y gcc gcc-c++ make zlib-devel libc.so.6 libstd
 
 # 切换工作目录
 WORKDIR /root
+# test trigger
